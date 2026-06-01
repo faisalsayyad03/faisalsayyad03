@@ -193,7 +193,7 @@
 </a>
 
 <a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
+<img src="./twitter1.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
 </a>
 
 <a href="" target="_blank">
@@ -201,7 +201,7 @@
 </a>
 
 <a href="https://github.com/faisalsayyad03?tab=repositories" target="_blank">
-<img src="./github.png" width=50 height=50 alt="faisalsayyad03" style="margin-bottom: 5px;" />
+<img src="./github1.png" width=50 height=50 alt="faisalsayyad03" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/faisal-sayyed-084598289/" target="_blank">
