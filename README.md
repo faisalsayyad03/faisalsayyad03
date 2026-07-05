@@ -1,225 +1,148 @@
-<!--Banner-->
-![Faisal sayyad Banner Image](./GitHub_banner.png)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Faisal Sayyad!
-*Data Scientist & AI Engineer*
-<br />
-
-<!--Start Intro-->
-<p align="left">I am a <strong>Data Scientist</strong> and <strong>AI Engineer</strong> with a deep passion for building intelligent systems, Agentic AI pipelines, and data-driven applications. I love working with Python, Machine Learning, Deep Learning, LLMs, Agentic AI Frameworks, and Data Visualization.</p>
-
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🤖 Passionate about **Agentic AI**, LLM systems, and building AI-powered real-world applications.
-- 🧠 Deep interest in **Data Science**, ML model development, and advanced AI research.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community]()
-- 🏙 A lifetime insider and Mentor at [Exercism]().
-- ✍ I write technical blogs, You can visit my blog site at [DEV]().
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio]() for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://camo.githubusercontent.com/651cec2896780de7e189304ef12fd4b4ce925203fee70272f7220ce5f6f2c300/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73756d697473617274616c6534393532266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Faisal Sayyad" style="padding-right:20px;" />
-</p>
-
----
-
-<!--Languages and Tools Section-->
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">🧠 Data Science & AI Skills</h3>
-<ul align="left">
-  <li><strong>Data Science:</strong> Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, EDA, Feature Engineering</li>
-  <li><strong>Machine Learning & Deep Learning:</strong> Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras</li>
-  <li><strong>Agentic AI:</strong> LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI Agents SDK, MCP (Model Context Protocol), RAG Pipelines, Multi-Agent Systems</li>
-  <li><strong>LLMs & Generative AI:</strong> Prompt Engineering, Fine-tuning, OpenAI API, Anthropic Claude API, Hugging Face, Vector Databases (Pinecone, Chroma, FAISS)</li>
-  <li><strong>AI Projects & MLOps:</strong> Model Deployment, FastAPI, Docker, MLflow, Streamlit, Gradio, AWS SageMaker</li>
-  <li><strong>Full Stack:</strong> React.js, Node.js, Django, REST APIs, PostgreSQL, MongoDB</li>
-</ul>
-
-<h3 align="left">📚 Current Learning</h3>
-<ul align="left">
-  <li>Building advanced <strong>Agentic AI</strong> systems using LangGraph, CrewAI, and AutoGen.</li>
-  <li>Deepening expertise in <strong>LLM fine-tuning</strong> and model alignment techniques.</li>
-  <li>Exploring <strong>MLOps</strong> best practices and scalable AI infrastructure on AWS & Azure.</li>
-  <li>Researching <strong>Multi-Agent collaboration frameworks</strong> and autonomous AI pipelines.</li>
-</ul>
-
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="">🔥🤖</a></li>
-  <li><a href="">🔥Pulstack: Deploy your static site to S3 or GitHub in &lt;1 min🙂</a></li>
-  <li><a href="">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
----
-
-<!--Agentic AI Frameworks Section-->
-<h2 align="center">🤖 Aɢᴇɴᴛɪᴄ AI & Fʀᴀᴍᴇᴡᴏʀᴋs</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF9500?style=for-the-badge&logoColor=white" />
-</p>
-
-<!--Data Science Stack Section-->
-<h2 align="center">📊 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Sᴛᴀᴄᴋ</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/faisalsayyad03?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
-
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-
-</div>
-
----
-
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
----
-
-<!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<a href="mailto:faisalsayyed1234567@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="faisalsayyed1234567@gmail.com" style="margin-bottom: 5px;" />
-</a>
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C56A90&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Faisal+Sayyad;Data+Scientist+%7C+AI+Engineer;Building+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Pipelines" alt="Typing SVG" />
 
-<a href="" target="_blank">
-<img src="./twitter1.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/faisalsayyad03?tab=repositories" target="_blank">
-<img src="./github1.png" width=50 height=50 alt="faisalsayyad03" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/faisal-sayyed-084598289/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
-</div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:C56A90&height=180&section=header&text=Faisal%20Sayyad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
 </div>
 
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<br/>
+
+<!-- Intro -->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 About Me
+
+I'm **Faisal Sayyad**, a **Data Scientist** and **AI Engineer** who loves turning ideas into intelligent, production-ready systems. My focus lives at the intersection of **Machine Learning**, **LLMs**, and **Agentic AI** — building pipelines that reason, plan, and act.
+
+- 🔭 Currently building an **AI image generation platform** and Python-based **web scraping tools**
+- 🤖 Deep interest in **Agentic AI** — LangChain, LangGraph, CrewAI, Multi-Agent systems
+- 🧠 Exploring **LLM fine-tuning**, RAG pipelines, and vector search
+- 🌱 Constantly learning — every day is a new experiment
+- ✍️ I write technical blogs on AI & Data Science
+- ❤️ Open source contributor
+- 📫 Reach me at **faisalsayyed1234567@gmail.com**
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="85%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=faisalsayyad03&label=Profile%20Views&color=c56a90&style=flat)
+
+</div>
+
+---
+
+<h2 align="center">🧠 Tech Stack</h2>
+
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Agentic AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logoColor=white)
+
+**Web & Deployment**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=faisalsayyad03&show_icons=true&theme=radical&bg_color=0,441350,c56a90&title_color=ffeb95&text_color=ffffff&icon_color=ffeb95&border=0&rank_icon=github&hide=prs,contribs" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsayyad03&theme=radical&background=0,441350,c56a90&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&border=0" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalsayyad03&layout=compact&theme=radical&bg_color=0,441350,c56a90&title_color=ffeb95&text_color=ffffff&border_radius=8" width="48%"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=faisalsayyad03&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalsayyad03&theme=redical&bg_color=000000&color=ffeb95&line=c56a90&point=ffffff&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+---
+
+<h2 align="center">💬 Thought of the Day</h2>
+
+<div align="center">
+
+<img src="https://readme-quote-generator.vercel.app/api?type=vertical&theme=radical" width="60%"/>
+
+</div>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalsayyed1234567@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-sayyed-084598289/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisalsayyad03)
+
+</div>
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px;width: 160px;">
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C56A90,100:441350&height=100&section=footer"/>
