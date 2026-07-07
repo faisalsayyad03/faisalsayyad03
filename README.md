@@ -89,6 +89,14 @@ I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas 
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalsayyad03&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" width="95%"/>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <div align="center">
