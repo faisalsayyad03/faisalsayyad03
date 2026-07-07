@@ -3,24 +3,23 @@
 <!-- Animated wave header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Hi%20There,%20I'm%20Faisal%20Sayyad%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20AI%20Engineering%20|%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Data Science related logos -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,opencv" alt="data science stack"/>
-
 <!-- Typing animation -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
-
-<br><br>
-
-<!-- Fun animation gif -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 
 </div>
 
 ---
 
 ### 🚀 About Me
+
+<table>
+<tr>
+<td width="400" valign="middle">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+</td>
+<td valign="middle">
 
 I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas into intelligent, production-ready systems. My focus lives at the intersection of **Machine Learning, LLMs, and Agentic AI** — building pipelines that reason, plan, and act.
 
@@ -32,9 +31,9 @@ I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas 
 * ❤️ Open source contributor
 * 📫 Reach me at [faisalsayyed1234567@gmail.com](mailto:faisalsayyed1234567@gmail.com)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
