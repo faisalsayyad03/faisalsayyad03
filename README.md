@@ -11,6 +11,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
+<br><br>
+
+<!-- Fun animation gif -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+
 </div>
 
 ---
