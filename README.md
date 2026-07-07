@@ -3,6 +3,9 @@
 <!-- Animated wave header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Hi%20There,%20I'm%20Faisal%20Sayyad%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20AI%20Engineering%20|%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
+<!-- Data Science related logos -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,opencv" alt="data science stack"/>
+
 <!-- Typing animation -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
