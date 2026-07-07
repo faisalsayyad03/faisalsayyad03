@@ -14,12 +14,9 @@
 
 ### 🚀 About Me
 
-<table>
-<tr>
-<td width="400" valign="middle">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
-</td>
-<td valign="middle">
+### 🚀 About Me
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" align="left">
 
 I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas into intelligent, production-ready systems. My focus lives at the intersection of **Machine Learning, LLMs, and Agentic AI** — building pipelines that reason, plan, and act.
 
@@ -31,9 +28,7 @@ I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas 
 * ❤️ Open source contributor
 * 📫 Reach me at [faisalsayyed1234567@gmail.com](mailto:faisalsayyed1234567@gmail.com)
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
 ---
 
