@@ -25,6 +25,8 @@ I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas 
 * ❤️ Open source contributor
 * 📫 Reach me at [faisalsayyed1234567@gmail.com](mailto:faisalsayyed1234567@gmail.com)
 
+
+
 <br clear="left">
 
 ---
