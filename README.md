@@ -4,7 +4,7 @@
 <!-- Little logo stickers -->
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,jupyter&perline=5" alt="sticker icons" height="55"/>
 <!-- Data Science / Data Visualization animated banners -->
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="49%" alt="data visualization animation"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="49%" alt="tech stack animation"/>
 <!-- Typing animation -->
 <a href="#">
@@ -17,6 +17,7 @@
 ### 🚀 About Me
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="49%" alt="data visualization animation"/>
 
 
 I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas into intelligent, production-ready systems. My focus lives at the intersection of **Machine Learning, LLMs, and Agentic AI** — building pipelines that reason, plan, and act.
