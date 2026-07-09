@@ -1,11 +1,6 @@
 <div align="center">
 <!-- Animated wave header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=260&section=header&text=Hi%20There,%20I'm%20Faisal%20Sayyad%20👋🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=📊%20Data%20Science%20%20|%20%20🤖%20AI%20Engineering%20%20|%20%20📈%20Analytics&descAlignY=58&descSize=18" width="100%"/>
-<!-- Little logo stickers -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,jupyter&perline=5" alt="sticker icons" height="55"/>
-<!-- Data Science / Data Visualization animated banners -->
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="49%" alt="tech stack animation"/>
 <!-- Typing animation -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
@@ -17,8 +12,6 @@
 ### 🚀 About Me
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" align="right">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="49%" alt="data visualization animation"/>
-
 
 I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas into intelligent, production-ready systems. My focus lives at the intersection of **Machine Learning, LLMs, and Agentic AI** — building pipelines that reason, plan, and act.
 
