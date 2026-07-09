@@ -128,8 +128,6 @@ I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
-
 **⭐ "Data is the new oil, but insight is the engine." ⭐**
 
 <img src="https://komarev.com/ghpvc/?username=faisalsayyad03&style=flat-square&color=00C6FF" alt="profile views"/>
