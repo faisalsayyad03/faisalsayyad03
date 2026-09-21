@@ -115,7 +115,7 @@ I'm **Faisal Sayyad**, a Data Scientist and AI Engineer who loves turning ideas 
 <a href="https://github.com/faisalsayyad03?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/sayyadfaisal" target="_blank">
+<a href="https://www.kaggle.com/sayyadfaisal" target="_blank"> 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
