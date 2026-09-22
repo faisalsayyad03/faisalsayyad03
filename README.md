@@ -2,7 +2,7 @@
 <!-- Animated wave header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=260&section=header&text=Hi%20There,%20I'm%20Faisal%20Sayyad%20👋🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=📊%20Data%20Science%20%20|%20%20🤖%20AI%20Engineering%20%20|%20%20📈%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 <!-- Typing animation -->
-<a href="#">
+<a href="#"> 
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 </div>
